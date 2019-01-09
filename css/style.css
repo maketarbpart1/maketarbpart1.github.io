@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #0b1119;
+}
+
+
+.logo {
+        padding-top: 63px;
+        padding-bottom: 98px;
+    }
+
+.h_item__text{
+    font-family: 'Roboto', sans-serif;
+    color: #f99406;
+    font-size: 14px;
+    margin-bottom: 22px;
+}
+
+.h_text-promo{
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.h_text{
+    font-family: 'Roboto', sans-serif;
+    color: #bdbdbd;
+    margin-bottom: 70px;
+}
+
+.h_input__mod{
+    padding-left: 25px;
+    width: 370px;
+    border: none;
+    outline: none;
+}
+
+.h_input{
+    height: 52px;
+    
+}
+
+
+
+.h_input button{
+    font-family: 'Roboto', sans-serif;
+    background-color: #f99406;
+    border: none;
+    outline: none;
+    color: #fff;
+    font-size: 14px;
+    width: 160px;
+    cursor: pointer;
+}
+
+.head_promo{
+    color: #fff;
+}
+
+
